@@ -2,6 +2,10 @@
 .navbarScroll.navbarDark {
     background-color: black;
 }
+#element{
+    font-size: 50px;
+    color: rgb(207, 197, 197);
+}
 
 /* hero background image */
 .bgimage {
