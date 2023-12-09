@@ -20,6 +20,7 @@
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
+    margin-left: 50px;
 }
 
 .hero_desc {
